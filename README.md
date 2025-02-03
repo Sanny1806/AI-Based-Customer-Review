@@ -2,6 +2,7 @@
 Sentiment Analysis API
 
 A simple Flask API for sentiment analysis using VADER and RoBERTa.
+Used Amazon Reviews dataset from Kaggle.
 
 Features:
 - Uses VADER for rule-based sentiment analysis.
